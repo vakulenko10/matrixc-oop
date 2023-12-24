@@ -1,0 +1,83 @@
+# Compiled Object files, Static and Dynamic libs (Shared Objects)
+*.suo
+*.o
+*.obj
+*.dll
+*.exe
+
+# NuGet Packages
+*.nuget/
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Mono Auto Generated Files
+mono_crash.*
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Visual Studio for Mac
+.vscode/
+.idea/
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.suo
+*.sln.docstates
+
+# Mono Auto Generated Files
+mono_crash.*
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# VS Code directories
+.vscode/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Logs
+*.log
+
+# ReSharper Directories
+_ReSharper*/
+
+# Test Result directories
+[Tt]est[Rr]esult*/
+
+# Build and Output Directories
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio Code directories
+.vscode/
+
+# JetBrains Rider directories
+.idea/
